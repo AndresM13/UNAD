@@ -15,4 +15,4 @@ Handry Orozco Ceballos
 ### Univeridad Abierta y a Distancia - UNAD 
 Zona Sur
 
-`Python` + `Pandas`
+`Python` + `Pandas` + `scikit-learn`
